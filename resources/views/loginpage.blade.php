@@ -36,7 +36,7 @@
                     @csrf
                     <button type="submit" class="google-btn">
                         <div class="google-icon"></div>
-                        Continue with Google
+                        Login with Google
                     </button>
                 </form>
 
